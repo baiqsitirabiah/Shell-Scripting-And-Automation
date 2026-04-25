@@ -1,0 +1,17 @@
+A. Variabel digunakan untuk menyimpan data yang dapat dipanggil kembali.
+
+1. Deklarasi Variabel (Simpan data ke variabel).
+nama="Box"                               
+umur=19                                  
+echo "Nama saya $nama, umur saya $umur"  
+
+2. Input Pengguna (Mengambil input ketikan pengguna).
+echo "Masukkan nama anda:"
+read nama
+echo "Selamat datang, $nama"
+
+3. Operasi Matematika (Operasi hitung dalam variabel).
+x=10
+y=5
+hasil=$((x + y))
+echo "Hasil penjumlahan: $hasil"
